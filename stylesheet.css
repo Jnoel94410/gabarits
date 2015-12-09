@@ -1,3 +1,17 @@
+
+
+
+/*.1 , .2 , .3 , .4 , .5 {
+	position: relative;
+} */
+
+
+
+body{
+	width : 50%; 
+	margin : auto;
+}
+
 header {
 
 		background-color: #FF0000;
