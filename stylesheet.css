@@ -1,0 +1,33 @@
+header {
+
+		background-color: #FF0000;
+		display: inline-block;
+}
+
+main {
+		background-color: #0000FF;
+		display: inline-block;
+}
+
+nav {
+
+	background-color: #00FF00;
+	display: inline-block;
+}
+
+footer {
+
+	background-color: #FFFF00;
+	display: inline-block;
+}
+
+aside {
+
+	background-color: #FF00FF;
+	display: inline-block;
+}
+
+p {
+
+	text-align: center;
+}
