@@ -1,47 +1,47 @@
 
 
+* {
+	margin: 0 auto;
+}
 
-/*.1 , .2 , .3 , .4 , .5 {
-	position: relative;
-} */
+.lol {
+	
+}
 
-
-
-body{
-	width : 50%; 
-	margin : auto;
+body {
+	margin: 0 auto;
+	width: 60%;
+}
+p {
+	text-align: center;
 }
 
 header {
-
-		background-color: #FF0000;
-		display: inline-block;
+	background-color: red;
+	height: 100px;
 }
-
 main {
-		background-color: #0000FF;
-		display: inline-block;
+	background-color: blue;
+	height: 300px;
 }
-
 nav {
-
+	float: left;
+	height: 300px;
+	width: 25%;
 	background-color: #00FF00;
-	display: inline-block;
-}
-
-footer {
-
-	background-color: #FFFF00;
-	display: inline-block;
 }
 
 aside {
-
 	background-color: #FF00FF;
-	display: inline-block;
+	float: right;
+	width: 25%;
+	height: 300px;
 }
 
-p {
-
-	text-align: center;
+footer {
+	background-color: #FFFF00;
+	height: 100px;
 }
+
+
+
